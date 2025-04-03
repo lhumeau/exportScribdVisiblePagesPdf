@@ -1,4 +1,4 @@
-# 📄 Scribd Visible Page Extractor
+# Scribd Visible Page Extractor
 
 Este script extrae todas las páginas visibles desde el visor de Scribd y las convierte en un documento imprimible como PDF utilizando la función nativa de impresión del navegador.
 
